@@ -1,0 +1,4 @@
+Writer succes subscribe
+Press: Ctrl
+Press: Z
+Complete event!
